@@ -2964,7 +2964,9 @@ General purpose
 ## [SkillClaw](https://github.com/AMAP-ML/SkillClaw/?utm_source=awesome-ai-agents)
 Collective skill evolution for OpenClaw-style multi-user agent ecosystems
 
-<details> 
+<details>
+
+![image](https://raw.githubusercontent.com/AMAP-ML/SkillClaw/main/assets/skillclaw_logo.png)
 
 ### Category
 General purpose, Build-your-own
